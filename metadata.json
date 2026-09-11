@@ -1,0 +1,6 @@
+{
+  "name": "RB Churi Ghor Pro",
+  "description": "Smart Bangle Store Management, POS, Inventory, Customer Due Ledger & Daily Sales Accounting in Bengali",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
