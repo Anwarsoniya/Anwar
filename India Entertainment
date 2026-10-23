@@ -1,0 +1,197 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AajTak.in@SD",Aaj Tak (720p)
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-791258/master.m3u8
+#EXTINF:-1 tvg-id="AajTak.in@SD",Aaj Tak (720p)
+https://feeds.intoday.in/aajtak/api/master.m3u8
+#EXTINF:-1 tvg-id="AajTak.in@SD",Aaj Tak (404p)
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
+#EXTINF:-1 tvg-id="AajTak.in@HD",Aaj Tak HD (1080p)
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-id="AajTak.in@HD",Aaj Tak HD (1080p)
+https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
+#EXTINF:-1 tvg-id="ColorsMENA.in@HD",Colors MENA HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ColorsRishteyAmericas.in@SD",Colors Rishtey Americas (396p)
+https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ColorsTamil.in@HD",Colors Tamil HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DDIndia.in@SD",DD India (720p)
+https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/chunks.m3u8
+#EXTINF:-1 tvg-id="GoldminesBollywood.in@SD",Goldmines Bollywood (576p)
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
+#EXTINF:-1 tvg-id="GoldminesBollywood.in@SD",Goldmines Bollywood
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="IndiaAhead.in@SD",India Ahead (576p)
+https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8
+#EXTINF:-1 tvg-id="IndiaDailyLive.in@SD",India Daily Live (1080p)
+https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8
+#EXTINF:-1 tvg-id="IndiaToday.in@SD",India Today (720p)
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8
+#EXTINF:-1 tvg-id="IndiaToday.in@SD",India Today
+https://livehub-voidnet.onrender.com/cluster/streamcore/in/INDIATODAY_StreamOrchestrator.m3u8
+#EXTINF:-1 tvg-id="IndiaTV.in@SD",India TV (720p)
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
+#EXTINF:-1 tvg-id="NDTVGoodTimes.in@SD",NDTV Good Times (396p)
+https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8
+#EXTINF:-1 tvg-id="NDTVIndia.in@SD",NDTV India (720p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTVIndia.m3u8
+#EXTINF:-1 tvg-id="NDTVMadhyaPradeshChhattisgarh.in@SD",NDTV Madhya Pradesh Chhattisgarh (1080p)
+https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvmpcg/master_1.m3u8
+#EXTINF:-1 tvg-id="NDTVMarathi.in@SD",NDTV Marathi (1080p)
+https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
+#EXTINF:-1 tvg-id="NDTVProfit.in@SD",NDTV Profit (1080p)
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8
+#EXTINF:-1 tvg-id="NDTVProfit.in@HD",NDTV Profit (1080p)
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
+#EXTINF:-1 tvg-id="NDTVRajasthan.in@SD",NDTV Rajasthan (1080p)
+https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8
+#EXTINF:-1 tvg-id="RTIndia.in@HD",RT India (1080p)
+https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
+#EXTINF:-1 tvg-id="IndiaAhead.in@SD",India Ahead (576p)
+https://cdn.pishow.tv/ott/live/269/master.m3u8
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD",Sony Entertainment Television HD (1080p)
+http://38.96.178.205/SONYHD/index.m3u8
+#EXTINF:-1 tvg-id="Starnet.in@SD",Starnet (480p)
+https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeBangla.in@HD",Zee Bangla HD (720p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
+#EXTINF:-1 tvg-id="ZeeBharat.in@SD",Zee Bharat (720p)
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
+#EXTINF:-1 tvg-id="ZeeBiharJharkhand.in@SD",Zee Bihar Jharkhand (720p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBiharJharkhand.m3u8
+#EXTINF:-1 tvg-id="ZeeBiharJharkhand.in@SD",Zee Bihar Jharkhand (720p)
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeebiharjharkhand/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28077955-07d7-4ae2-8b11-9f318cd69420/main.m3u8
+#EXTINF:-1 tvg-id="ZeeBusiness.in@SD",Zee Business (720p)
+https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-id="ZeeBusiness.in@SD",Zee Business (576p)
+https://dwby15d04agvq.cloudfront.net/index_1.m3u8
+#EXTINF:-1 tvg-id="ZeeCinema.in@APAC",Zee Cinema APAC (720p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
+#EXTINF:-1 tvg-id="ZeeDelhiNCRHaryana.in@SD",Zee Delhi NCR Haryana (720p)
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8
+#EXTINF:-1 tvg-id="ZeeKannada.in@HD",Zee Kannada HD (1080p)
+https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="ZeeMadhyaPradeshChhattisgarh.in@SD",Zee Madhya Pradesh Chhattisgarh (720p)
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8
+#EXTINF:-1 tvg-id="ZeeMarathi.in@HD",Zee Marathi HD (720p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8
+#EXTINF:-1 tvg-id="ZeePunjabHaryanaHimachal.in@SD",Zee Punjab Haryana Himachal (720p)
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8
+#EXTINF:-1 tvg-id="ZeeRajasthan.in@SD",Zee Rajasthan (720p)
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8
+#EXTINF:-1 tvg-id="ZeeUttarPradeshUttarakhand.in@SD",Zee Uttar Pradesh/Uttarakhand (720p)
+https://duw35ict5q7th.cloudfront.net/index_3.m3u8
+#EXTINF:-1 tvg-id="ColorsGujarati.in@SD",Colors Gujarati (396p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8
+#EXTINF:-1 tvg-id="GoldminesBollywood.in@SD",Goldmines Bollywood (576p)
+https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="MusicIndia.in@SD",Music India (576p)
+https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="IndiaTV.in@SD",India TV (576p)
+https://streams.tangotv.in/INDIATV/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="DDIndia.in@SD",DD India (576p)
+https://mumt05.tangotv.in/87NeALx2DDINDIA/index.m3u8
+#EXTINF:-1 tvg-id="HopeChannelIndia.in@SD",Hope Channel India (576p)
+https://mumt01.tangotv.in/O5aw8Zn3HOPECHANNELINDIA/index.m3u8
+#EXTINF:-1 tvg-id="TehzeebTV.in@SD",Tehzeeb TV (576p)
+https://mumt05.tangotv.in/87NeALx2TEHZEEBTV/index.m3u8
+#EXTINF:-1 tvg-id="IndiaVoice.in@SD",India Voice (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/indiavoice/playlist.m3u8
+#EXTINF:-1 tvg-id="StarVijay.in@UK",Star Vijay (396p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeTamil.in@HD",Zee Tamil HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ColorsKannada.in@HD",Colors Kannada HD (1080i)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HosannaTV.in@Hindi",Hosanna TV Hindi
+https://ktismaservers.in:3466/live/hosannattvhindhilive.m3u8
+#EXTINF:-1 tvg-id="ZeeUttarPradeshUttarakhand.in@SD",Zee Uttar Pradesh/Uttarakhand (576p)
+https://mumt07.tangotv.in/zHjX9OFlZEEUPUK/index.m3u8
+#EXTINF:-1 tvg-id="ZeeBharat.in@SD",Zee Bharat (576p)
+https://mumt03.tangotv.in/Dsly5z3HZEEBHARAT/index.m3u8
+#EXTINF:-1 tvg-id="StarMaa.in@HD",Star Maa HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
+#EXTINF:-1 tvg-id="StarMaaMovies.in@HD",Star Maa Movies HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
+#EXTINF:-1 tvg-id="StarJalsha.in@HD",Star Jalsha HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 tvg-id="StarPravah.in@HD",Star Pravah HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 tvg-id="ZeeTV.in@HD",Zee TV HD (720p) [Geo-blocked]
+http://41.205.93.154/ZEE-TV/index.m3u8
+#EXTINF:-1 tvg-id="ColorsMarathi.in@HD",Colors Marathi HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DDIndia.in@SD",DD India (720p)
+https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="GospelTVIndia.in@SD",Gospel TV India (576p)
+https://server.livelegitpro.in:9899/gospeltv/index.m3u8
+#EXTINF:-1 tvg-id="TV30India.in@SD",TV30 India (1080p)
+https://stream.tv30bharat.com/hls/shree/bhattji.m3u8
+#EXTINF:-1 tvg-id="ColorsSuper.in@SD",Colors Super (396p)
+https://d1rc86nwwc9fag.cloudfront.net/260723/smil:colorssuper1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="BoogleBollywood.in@SD",Boogle Bollywood (720p)
+https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="RTIndia.in@HD",RT India (1080p)
+https://mumbai-edge.smartplaytv.in/RTIndia/index.m3u8
+#EXTINF:-1 tvg-id="NDTVIndia.in@SD",NDTV India (720p)
+https://mumbai-edge.smartplaytv.in/NDTVIndia/index.m3u8
+#EXTINF:-1 tvg-id="DDIndia.in@SD",DD India (1080p)
+https://mumbai-edge.smartplaytv.in/DDIndia/index.m3u8
+#EXTINF:-1 tvg-id="ZeeBangla.in@HD",Zee Bangla HD (720p) [Geo-blocked]
+https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
+#EXTINF:-1 tvg-id="MusicIndia.in@SD",Music India (576p)
+https://mumt05.tangotv.in/87NeALx2MUSICINDIA/index.m3u8
+#EXTINF:-1 tvg-id="HopeChannelIndia.in@SD",Hope Channel India (576p)
+https://cdn.pishow.tv/ott/live/1385/master.m3u8
+#EXTINF:-1 tvg-id="NDTVIndia.in@SD",NDTV India (576p)
+https://cdn.pishow.tv/ott/live/299/master.m3u8
+#EXTINF:-1 tvg-id="NDTVProfit.in@SD",NDTV Profit (576p)
+https://cdn.pishow.tv/ott/live/1287/master.m3u8
+#EXTINF:-1 tvg-id="NDTVMadhyaPradeshChhattisgarh.in@SD",NDTV Madhya Pradesh Chhattisgarh (576p)
+https://cdn.pishow.tv/ott/live/1488/master.m3u8
+#EXTINF:-1 tvg-id="NDTVRajasthan.in@SD",NDTV Rajasthan (576p)
+https://cdn.pishow.tv/ott/live/1489/master.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplex.in@SD",Colors Cineplex (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
+#EXTINF:-1 tvg-id="ZeeTelugu.in@HD",Zee Telugu HD (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeTeluguHD.m3u8
+#EXTINF:-1 tvg-id="Colors.in@SD",Colors (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ColorsAPAC.m3u8
+#EXTINF:-1 tvg-id="ColorsBanglaCinema.in@SD",Colors Bangla Cinema (576p)
+http://103.151.60.162:2122/play/a02m/index.m3u8?hls
+#EXTINF:-1 tvg-id="ColorsBangla.in@HD",Colors Bangla HD (1080p)
+http://103.151.60.162:2122/play/a02o/index.m3u8?hls
+#EXTINF:-1 tvg-id="Colors.in@HD",Colors HD (1080p)
+http://103.151.60.162:2122/play/a02q/index.m3u8?hls
+#EXTINF:-1 tvg-id="ColorsInfinity.in@HD",Colors Infinity HD (1080p)
+http://103.151.60.162:2122/play/a02r/index.m3u8?hls
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@SD",Sony Entertainment Television (576p)
+http://103.151.60.162:2122/play/a015/index.m3u8?hls
+#EXTINF:-1 tvg-id="StarMovies.in@HD",Star Movies HD (1080p)
+http://103.151.60.162:2122/play/a02k/index.m3u8?hls
+#EXTINF:-1 tvg-id="SonyPix.in@HD",Sony Pix HD (1080p)
+http://103.151.60.162:2122/play/a01d/index.m3u8?hls
+#EXTINF:-1 tvg-id="SonySAB.in@SD",Sony SAB (576p)
+http://103.151.60.162:2122/play/a01q/index.m3u8?hls
+#EXTINF:-1 tvg-id="SonyAath.in@SD",Sony Aath (576p)
+http://103.151.60.162:2122/play/a023/index.m3u8?hls
+#EXTINF:-1 tvg-id="ZeeCinema.in@HD",Zee Cinema HD (1080p)
+http://103.151.60.162:2122/play/a024/index.m3u8?hls
+#EXTINF:-1 tvg-id="StarJalsha.in@SD",Star Jalsha (576p)
+http://103.151.60.162:2122/play/a00w/index.m3u8?hls
+#EXTINF:-1 tvg-id="StarGold2.in@HD",Star Gold 2 HD (1080p)
+http://103.151.60.162:2122/play/a01v/index.m3u8?hls
+#EXTINF:-1 tvg-id="ZeeCinema.in@HD",Zee Cinema HD (1080p)
+http://103.151.60.162:2122/play/a012/index.m3u8?hls
+#EXTINF:-1 tvg-id="ZeeBangla.in@SD",Zee Bangla (576p)
+http://103.151.60.162:2122/play/a011/index.m3u8?hls
+#EXTINF:-1 tvg-id="ZeeBangla.in@HD",Zee Bangla HD (1080p)
+http://103.151.60.162:2122/play/a02p/index.m3u8?hls
+#EXTINF:-1 tvg-id="ZeeTV.in@SD",Zee TV (576p)
+http://103.151.60.162:2122/play/a01u/index.m3u8?hls
+#EXTINF:-1 tvg-id="SonySAB.in@SD",Sony SAB (720p)
+https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
+#EXTINF:-1 tvg-id="Colors.in@HD",Colors HD (1080p)
+http://103.135.253.32:8080/Color-HD/index.m3u8
+#EXTINF:-1 tvg-id="IndiaTalkies.in@SD",India Talkies (360p)
+https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8
